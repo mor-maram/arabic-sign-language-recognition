@@ -210,8 +210,8 @@ sign-language-translator-arabic/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sign-language-translator-arabic.git
-cd sign-language-translator-arabic
+git clone https://github.com/mor-maram/arabic-sign-language-recognition.git
+cd arabic-sign-language-recognition
 ```
 
 ### 2. Install Dependencies
